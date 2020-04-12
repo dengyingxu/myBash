@@ -65,5 +65,8 @@ void myShell() {
         for (int i = 0; i <= cnt; i++) {
             printf("%s\n", argv[i]);
         }
+
+
+        if ()
     }
 }
